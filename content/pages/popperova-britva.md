@@ -4,7 +4,7 @@ metaDescription: Vědecké teorie jsou ověřitelné. Ověřitelné teorie je mo
 date: Last Modified 
 permalink: /popperova-britva/index.html
 eleventyNavigation:
-  order: 10
+  order: 13
   key: popperova-britva
   title: Popperova břitva
   parent: filozoficke-myslenkove-britvy

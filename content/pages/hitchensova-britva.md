@@ -4,7 +4,7 @@ metaDescription: To, co lze bez důkazu tvrdit, lze také bez důkazu zavrhnout.
 date: Last Modified 
 permalink: /hitchensova-britva/index.html
 eleventyNavigation:
-  order: 10
+  order: 14
   key: hitchensova-britva
   title: Hitchensova břitva
   parent: filozoficke-myslenkove-britvy

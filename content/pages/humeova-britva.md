@@ -4,7 +4,7 @@ metaDescription: Žádné svědectví není s to dokázat zázrak, ledaže by š
 date: Last Modified 
 permalink: /humeova-britva/index.html
 eleventyNavigation:
-  order: 10
+  order: 12
   key: humeova-britva
   title: Humeova břitva
   parent: filozoficke-myslenkove-britvy

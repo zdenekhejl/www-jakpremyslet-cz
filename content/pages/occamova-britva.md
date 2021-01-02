@@ -4,7 +4,7 @@ metaDescription: Pokud pro nějaký jev existuje vícero vysvětlení, je lépe 
 date: Last Modified 
 permalink: /occamova-britva/index.html
 eleventyNavigation:
-  order: 10
+  order: 11
   key: occamova-britva
   title: Occamova břitva
   parent: filozoficke-myslenkove-britvy
