@@ -17,4 +17,8 @@ Humeova břitva je jednou z [filozofických/myšlenkových břitev](/filozoficke
 ---
 
 ## Více o filozofických (myšlenkových) břitvách
-[Přehled filozofických/myšlenkových břitev](/filozoficke-myslenkove-britvy/) | [Hitchensova břitva](/hitchensova-britva/) | [Humeova břitva](/humeova-britva/) | [Occamova břitva](/occamova-britva/) | [Popperova břitva](/popperova-britva/)
+[Filozofické (myšlenkové) břitvy](/filozoficke-myslenkove-britvy/)
+- [Hitchensova břitva](/hitchensova-britva/) 
+- [Humeova břitva](/humeova-britva/) 
+- [Occamova břitva](/occamova-britva/)
+- [Popperova břitva](/popperova-britva/)
