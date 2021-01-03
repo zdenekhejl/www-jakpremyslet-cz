@@ -16,6 +16,18 @@
   from = "/kategorie/*"
   to = "/"
 
+[[redirects]]
+  from = "/6-problemu-se-vzdelavanim-ve-skolach/"
+  to = "/"
+
+[[redirects]]
+  from = "/25-tipu-jak-se-rychleji-ucit/"
+  to = "/"
+
+[[redirects]]
+  from = "/otazky-pri-kritickem-mysleni/"
+  to = "/"
+
 [[headers]]
   for = "/*"
   [headers.values]
