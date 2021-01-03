@@ -1,17 +1,16 @@
 ---
-title: Hello, world.
+title: Jak přemýšlet
 date: Last Modified 
 permalink: /
 eleventyNavigation:
-  key: Hello 
+  key: homepage 
   order: 0
-  title: Hello, world.
+  title: Rozcestník webu Jak přemýšlet
 ---
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
+[Filozofické (myšlenkové) břitvy](/filozoficke-myslenkove-britvy/)
+- [Hitchensova břitva](/hitchensova-britva/) 
+- [Humeova břitva](/humeova-britva/) 
+- [Occamova břitva](/occamova-britva/)
+- [Popperova břitva](/popperova-britva/)
 
-![Hello, world](/content/images/hello.jpg)
-
-->*Onward...*<-
-
-
-
+[Kognitivní zkreslení](/kognitivni-zkresleni/)
