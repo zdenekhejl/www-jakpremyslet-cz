@@ -185,7 +185,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon-32x32.png");
   eleventyConfig.addPassthroughCopy("site.webmanifest");
 
-
   eleventyConfig.addPassthroughCopy("images/")
   eleventyConfig.addPassthroughCopy("content/images/")
   eleventyConfig.addPassthroughCopy("admin");
