@@ -29,3 +29,4 @@ Ačkoliv nám tyto myšlenkové zkratky mohou ušetřit spoustu času a námahy,
 |Klam přeživších|Survivorship bias|
 |Klam dostupnosti|Availability bias|
 |Sklon vůbec neriskovat|Zero risk bias|
+|[Upřednostnění vnějšího vlivu](/uprednostneni-vnejsiho-vlivu/)|Extrinsic incentive bias|
