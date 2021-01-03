@@ -4,31 +4,19 @@
   #command = "npm run build && set -e && find ./_site -type f -name '*.html' -exec staticrypt -f password_template.html {} $PASSWORD -o {} \\;"
   functions = "functions"
 
-# REDIRECT and HEADERS examples
+[[redirects]]
+  from = "/online-vzdelavaci-platformy"
+  to = "https://www.zdenek-hejl.com/online-vzdelavaci-platformy"
 
-# Redirect rule example
-# For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
+[[redirects]]
+  from = "/tema/*"
+  to = "/"
 
-#[[redirects]]
-#  from = "/*"
-#  to = "/blog/:splat"
+[[redirects]]
+  from = "/kategorie/*"
+  to = "/"
 
-# The default HTTP status code is 301, but you can define a different one e.g.
-# status = 302
-
-# Headers rule example
-# For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
-
-#[[headers]]
-#   Define which paths this specific [[headers]] block will cover.
-#   for = "/*"
-
-#[headers.values]
-#   X-Frame-Options = "DENY"
-#   X-XSS-Protection = "1; mode=block"
-#   Content-Security-Policy = "frame-ancestors https://www.facebook.com"
-
-# Redirects and headers are GLOBAL for all builds – they do not get scoped to
-# contexts no matter where you define them in the file.
-# For context-specific rules, use _headers or _redirects files, which are
-# applied on a PER-DEPLOY basis.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"

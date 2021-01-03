@@ -3,11 +3,6 @@ title: Occamova břitva
 metaDescription: Pokud pro nějaký jev existuje vícero vysvětlení, je lépe upřednostňovat to nejméně komplikované.
 date: Last Modified 
 permalink: /occamova-britva/index.html
-eleventyNavigation:
-  order: 11
-  key: occamova-britva
-  title: Occamova břitva
-  parent: filozoficke-myslenkove-britvy
 ---
 Occamova břitva je jednou z [filozofických/myšlenkových břitev](/filozoficke-myslenkove-britvy/). Jedná se o princip logické úspornosti.
 
@@ -32,9 +27,7 @@ Když něco vypadá jako kachna, chodí jako kachna, a kejhá jako kachna, s nej
 ### Podezřelí jsou ti nejbližší
 Proč pro vyšetřovatele vražd jsou primárními podezřelými ti nejbližší? Náhoda to není. Třeba v roce 2013 bylo v České republice spácháno 182 vražd, z toho šest bylo nájemných, jedna motivována sexuálně a jedenáct loupežných. V celých 103 případech se jednalo o vraždy spáchané mezi příbuznými či lidmi, kteří spolu měli osobní vztah. Tedy vztah k oběti je tím, co z vás udělá bez ohledu na skutečnou vinu či nevinu prvního podezřelého, a to prostě proto, že jste pravděpodobným pachatelem.
 
+---
 
-## Co si přečíst dál
-- [Přehled filozofických/myšlenkových břitev](/filozoficke-myslenkove-britvy/)
-- [Hitchensova břitva](/hitchensova-britva/)
-- [Humeova břitva](/humeova-britva/)
-- [Popperova břitva](/popperova-britva/)
+## Více o filozofických (myšlenkových) břitvách
+[Přehled filozofických/myšlenkových břitev](/filozoficke-myslenkove-britvy/) | [Hitchensova břitva](/hitchensova-britva/) | [Humeova břitva](/humeova-britva/) | [Occamova břitva](/occamova-britva/) | [Popperova břitva](/popperova-britva/)

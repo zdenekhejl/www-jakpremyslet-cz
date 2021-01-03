@@ -12,7 +12,7 @@ Filozofické nebo myšlenkové břitvy jsou myšlenkové postupy, které lze vyu
 
 Mezi filozofické břitvy se běžně řadí:
 
-- [Popperova břitva](/popperova-britva/)
-- [Occamova břitva](/occamova-britva/)
-- [Humeova břitva](/humeova-britva/)
 - [Hitchensova břitva](/hitchensova-britva/)
+- [Humeova břitva](/humeova-britva/)
+- [Occamova břitva](/occamova-britva/)
+- [Popperova břitva](/popperova-britva/)

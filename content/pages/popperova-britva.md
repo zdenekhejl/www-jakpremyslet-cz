@@ -3,11 +3,6 @@ title: Popperova břitva
 metaDescription: Vědecké teorie jsou ověřitelné. Ověřitelné teorie je možné na základě ověřovacího postupu zamítnout (a nahradit teoriemi jinými).
 date: Last Modified 
 permalink: /popperova-britva/index.html
-eleventyNavigation:
-  order: 13
-  key: popperova-britva
-  title: Popperova břitva
-  parent: filozoficke-myslenkove-britvy
 ---
 Popperova břitva je jednou z [filozofických/myšlenkových břitev](/filozoficke-myslenkove-britvy/). Zabývá se testovatelností a vyvratitelností hypotéz a teorií.
 
@@ -23,8 +18,7 @@ Popperova břitva je jednou z [filozofických/myšlenkových břitev](/filozofic
 ### Černá labuť
 Tvrzení "všechny labutě jsou bílé" nelze dokázat libovolně velkým počtem pozorovaných bílých labutí, ale zamítne ji nález první černé labutě.
 
-## Co si přečíst dál
-- [Přehled filozofických/myšlenkových břitev](/filozoficke-myslenkove-britvy/)
-- [Occamova břitva](/occamova-britva/)
-- [Humeova břitva](/humeova-britva/)
-- [Hitchensova břitva](/hitchensova-britva/)
+---
+
+## Více o filozofických (myšlenkových) břitvách
+[Přehled filozofických/myšlenkových břitev](/filozoficke-myslenkove-britvy/) | [Hitchensova břitva](/hitchensova-britva/) | [Humeova břitva](/humeova-britva/) | [Occamova břitva](/occamova-britva/) | [Popperova břitva](/popperova-britva/)
