@@ -10,10 +10,22 @@ eleventyNavigation:
 ---
 Při myšlení často využíváme myšlenkové zkratky, protože by bylo časově a energeticky náročné každý problém či otázku prozkoumávat ze všech potřebných úhlů. Navíc by to mohlo být v některých situacích nebezpečné. Ve velkém procentu případů by komplexní zkoumání problému bylo také prosto nevýhodné, protože bychom došli ke stejnému výsledku jako při využití myšlenkové zkratky.
 
-Ačkoliv nám tyto myšlenkové zkratky mohou ušetřit spoustu času a námahy, tak nás také mohou snadno dovést k nepravdivým závěrům, protože při jejich použití nefungují naplno běžné myšlenkové kontrolní mechanismy. V takových případech se bavíme o kognitivním zkreslení (🇬🇧 cognitive bias).
+Ačkoliv nám tyto myšlenkové zkratky mohou ušetřit spoustu času a námahy, tak nás také mohou snadno dovést k nepravdivým závěrům, protože při jejich použití nefungují naplno běžné myšlenkové kontrolní mechanismy. V takových případech se bavíme o kognitivním zkreslení (cognitive bias).
 
-Mezi běžná kognitivní zkreslení patří například:
+## Přehled kognitivních zkreslení
 
-- Efekt ukotvení (:gb: Anchoring effect)
-- Stádový efekt (🇬🇧 Bandwagon effect)
-- Kognitivní slepá skvrna (🇬🇧 Blind spot bias)
+|Český název|Anglický název
+|-|-|
+|Efekt ukotvení|Anchoring effect|
+|Stádový efekt|Bandwagon effect|
+|Kognitivní slepá skvrna|Blind spot bias|
+|Konfirmační (potvrzovací) zkreslení|Confirmation bias|
+|Eskalace (stupňování) závazku|Escalation of commitment|
+|Iluze kontroly|Illusion of control|
+|Naivní realismus|Naïve realism|
+|Pštrosí efekt|Ostrich effect|
+|Zkreslení výsledkem / Výsledková zaujatost|Outcome bias|
+|Placebo efekt|Placebo effect|
+|Klam přeživších|Survivorship bias|
+|Klam dostupnosti|Availability bias|
+|Sklon vůbec neriskovat|Zero risk bias|
