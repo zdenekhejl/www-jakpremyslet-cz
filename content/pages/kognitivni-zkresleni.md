@@ -10,4 +10,10 @@ eleventyNavigation:
 ---
 Při myšlení často využíváme myšlenkové zkratky, protože by bylo časově a energeticky náročné každý problém či otázku prozkoumávat ze všech potřebných úhlů. Navíc by to mohlo být v některých situacích nebezpečné. Ve velkém procentu případů by komplexní zkoumání problému bylo také prosto nevýhodné, protože bychom došli ke stejnému výsledku jako při využití myšlenkové zkratky.
 
-Ačkoliv nám tyto myšlenkové zkratky mohou ušetřit spoustu času a námahy, tak nás také mohou snadno dovést k nepravdivým závěrům, protože při jejich použití nefungují naplno běžné myšlenkové kontrolní mechanismy. V takových případech se bavíme o kognitivním zkreslení (`cognitive bias`).
+Ačkoliv nám tyto myšlenkové zkratky mohou ušetřit spoustu času a námahy, tak nás také mohou snadno dovést k nepravdivým závěrům, protože při jejich použití nefungují naplno běžné myšlenkové kontrolní mechanismy. V takových případech se bavíme o kognitivním zkreslení (🇬🇧 cognitive bias).
+
+Mezi běžná kognitivní zkreslení patří například:
+
+- Efekt ukotvení (🇬🇧 Anchoring effect)
+- Stádový efekt (🇬🇧 Bandwagon effect)
+- Kognitivní slepá skvrna (🇬🇧 Blind spot bias)
