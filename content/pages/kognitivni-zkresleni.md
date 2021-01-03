@@ -14,6 +14,6 @@ Ačkoliv nám tyto myšlenkové zkratky mohou ušetřit spoustu času a námahy,
 
 Mezi běžná kognitivní zkreslení patří například:
 
-- Efekt ukotvení (🇬🇧 Anchoring effect)
+- Efekt ukotvení (:gb: Anchoring effect)
 - Stádový efekt (🇬🇧 Bandwagon effect)
 - Kognitivní slepá skvrna (🇬🇧 Blind spot bias)
