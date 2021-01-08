@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ renderData.title or title or site.name }}</title>
+  <title>{{ renderData.title or title or site.name }}{{ ' | Jak přemýšlet' if '/' != page.url }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or site.description }}">
   <meta name="google-site-verification" content="nTRMixK6Sojz_R5_45YBUGKMxks2cBOL6LZ6c78Liy0" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

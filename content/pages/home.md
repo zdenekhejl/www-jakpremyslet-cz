@@ -1,5 +1,5 @@
 ---
-title: Jak přemýšlet
+title: Jak přemýšlet aneb Využívejte svůj mozek naplno
 date: Last Modified 
 permalink: /
 eleventyNavigation:
