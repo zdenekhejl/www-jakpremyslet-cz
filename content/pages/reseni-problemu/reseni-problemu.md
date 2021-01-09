@@ -13,6 +13,6 @@ eleventyNavigation:
 |Český název|Anglický název
 |-|-|
 |5x proč|5 whys|
-|Abstrakční žebřík|Abstraction laddering|                             q
+|Abstrakční žebřík|Abstraction laddering|
 |Prvotní principy|First principles|
 |[Inverze](/inverze/)|Inversion|
