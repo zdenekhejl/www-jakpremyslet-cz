@@ -16,4 +16,4 @@ eleventyNavigation:
 |5x proč|5 whys|
 |Abstrakční žebřík|Abstraction laddering|
 |Prvotní principy|First principles|
-|Inverze|Inversion|
+|[/inverze/](Inverze)|Inversion|
