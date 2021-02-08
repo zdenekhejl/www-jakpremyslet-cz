@@ -4,6 +4,9 @@ metaDescription: Tendence přikládat větší význam externím pohnutkám (nap
 date: Last Modified 
 permalink: /uprednostneni-vnejsiho-vlivu/index.html
 ---
+**Anglicky:** Extrinsic incentive bias
+**Typ kognitivního zkreslení:** Atribuční zkreslení
+
 Upřednostnění vnějšího vlivu je tendence přikládat větší význam externím pohnutkám (např. peněžní odměny) než interním pohnutkám (např. mít ze sebe dobrý pocit) při hodnocení motivů jiných lidí.
 
 ## Příklady
