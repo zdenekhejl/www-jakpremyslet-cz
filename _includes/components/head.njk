@@ -4,10 +4,31 @@
   <title>{{ renderData.title or title or site.name }}{{ ' | Jak přemýšlet' if '/' != page.url }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or site.description }}">
   <meta name="google-site-verification" content="nTRMixK6Sojz_R5_45YBUGKMxks2cBOL6LZ6c78Liy0" />
+  
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
+
+  <meta name="twitter:card" content="summary" />
+
+  <meta name="twitter:site" content="@jakpremyslet" />
+  <meta property="og:site_name" content="Jak přemýšlet" />
+
+  <meta name="twitter:creator" content="@zdenekhejl" />
+
+  <meta name="twitter:title" content="{{ renderData.title or title or site.name }}{{ ' | Jak přemýšlet' if '/' != page.url }}" />
+  <meta property="og:title" content="{{ renderData.title or title or site.name }}{{ ' | Jak přemýšlet' if '/' != page.url }}" />
+
+  <meta name="twitter:description" content="{{ metaDescription or renderData.metaDescription or site.description }}" />
+  <meta property="og:description" content="{{ metaDescription or renderData.metaDescription or site.description }}" />
+
+  <meta name="twitter:url" content="{{ page.url }}" />
+  <meta property="og:url" content="{{ page.url }}" />
+
+  <meta name="twitter:image" content="/android-chrome-512x512.png" />
+  <meta property="og:image" content="/android-chrome-512x512.png" />
+
 
   <link rel="stylesheet" href="/style.css?v={% version %}"/>
   
