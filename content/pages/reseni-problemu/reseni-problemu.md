@@ -1,6 +1,6 @@
 ---
 title: Řešení problémů
-metaDescription: 
+metaDescription: Metody řešení problémů
 date: Last Modified 
 permalink: /reseni-problemu/index.html
 eleventyNavigation:

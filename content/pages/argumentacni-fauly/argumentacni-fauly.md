@@ -1,6 +1,6 @@
 ---
 title: Argumentační fauly
-metaDescription: 
+metaDescription: Argumentační fauly
 date: Last Modified 
 permalink: /argumentacni-fauly/index.html
 ---
