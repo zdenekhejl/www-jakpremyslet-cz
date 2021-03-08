@@ -18,6 +18,9 @@
           <div class="block md:hidden text-sm text-gray-500 mb-4">{{ site.subtitle }}</div>
           </a>
           {{ collections.all | eleventyNavigation | eleventyNavigationToHtml({anchorClass: "item",activeAnchorClass: "active",activeListItemClass: "active",activeKey: eleventyNavigation.key, listClass: "nav", listItemClass: "item"}) | safe }}
+          
+          <div class="block md:hidden pt-4 font-semibold text-gray-500">Sledujte <strong>Jak přemýšlet</strong> na</div>
+          <div class="block md:hidden text-sm text-gray-500 mb-4"><a href="https://twitter.com/jakpremyslet">Twitteru</a></div>
         </div>
       </nav>
       {% endif %}

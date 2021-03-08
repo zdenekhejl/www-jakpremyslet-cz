@@ -99,7 +99,7 @@ module.exports = function(eleventyConfig) {
 
    // Creates custom collection "pages"
    eleventyConfig.addCollection("pages", function(collection) {
-    return collection.getFilteredByGlob("pages/*.md");
+    return collection.getFilteredByGlob("content/pages/**/*.md");
    });
 
    // Creates custom collection "posts"
