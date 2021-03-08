@@ -2,6 +2,11 @@
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="cs">
   {% include "components/head.njk" %}
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6FTZNT"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <div id="app" class="h-screen bg-white dark:bg-gray-900">
       {% include "components/header.njk" %}
       {% if site.navigationStyle == "vertical" %}
