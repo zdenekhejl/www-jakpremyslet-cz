@@ -11,7 +11,7 @@ Existuje ale i alternativní přístup, kdy se snažíme **identifikovat nevhodn
 Místo toho, abychom se klasicky ptali:
 - Jaké činnosti musíme udělat, abychom uspěli?
 - Jaké podmínky potřebujeme, abychom uspěli?
-- Které události nám mohou pomoci k tomu, abycho uspěli?
+- Které události nám mohou pomoci k tomu, abychom uspěli?
 
 Tak se naopak ptáme inverzně:
 - Co nám brání v tom, abychom uspěli?
